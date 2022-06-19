@@ -90,7 +90,7 @@ include "header.php";
             </div>
             <div class="detail-box">
               <p>
-                t will be distracted by the readable
+                t will be distracted by the readable file
               </p>
             </div>
           </div>
